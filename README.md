@@ -1,2 +1,3 @@
-# git_for_test
- the first test repository for study
+# XR_BootCamp
+ * The first test repository for study.
+ 2025.03.10 - 2025. 10. 29
