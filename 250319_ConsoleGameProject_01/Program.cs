@@ -3,7 +3,7 @@ using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 
-namespace _250319
+namespace _250319_ConsoleGameProject_01
 {
     internal class Program
     {
